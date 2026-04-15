@@ -33,10 +33,16 @@ O objetivo é analisar o desempenho geral, identificar tendências de faturament
 ---
 
 ## Principais Insights
-- **Cosméticos** e **Medicamentos** lideram em faturamento (cerca de R$ 3 milhões cada).  
-- **Higiene Pessoal** possui maior volume de unidades vendidas (82 mil).  
-- O faturamento apresenta picos em meados de 2022 e início de 2023.  
-- Produtos como **Batom** e **Desinfetante** se destacam dentro de suas categorias.  
+**Faturamento Total Relevante**
+O período de 2021 a 2023 gerou R$ 7,87 milhões, mostrando a força comercial da farmácia.
+**Categorias Líderes em Receita**  
+Cosméticos e Medicamentos são os grandes motores do faturamento, cada um com cerca de R$ 3 milhões, representando juntos mais de 70% da receita total.
+**Volume vs. Ticket Médio**  
+Medicamento tem o maior volume de unidades vendidas (108 mil), com faturamento de (R$ 2,96 milhão).
+**Produtos Destaques**
+Dentro de Cosméticos, o Batom lidera em faturamento (R$ 925 mil), enquanto em Higiene Pessoal o Desinfetante e a Pasta de Dente se destacam como essenciais de alto giro.
+**Tendência Temporal com Picos**
+O faturamento mostra crescimento consistente, com picos em meados de 2022 e início de 2023, sugerindo sazonalidade ou campanhas promocionais que impulsionaram as vendas.
 
 ---
 
