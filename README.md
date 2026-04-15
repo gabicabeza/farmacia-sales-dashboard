@@ -26,10 +26,6 @@ O objetivo é analisar o desempenho geral, identificar tendências de faturament
 
 ┃ ┗ dashboard.pbix                   (arquivo do Power BI)
 
-┣ 📂 docs
-
-┃ ┗ README.md                        (explicação do projeto)
-
 ┗ 📂 images
 
 ┃ ┗ dashboard_preview.png           (print do dashboard)
